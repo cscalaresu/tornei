@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/138.0  Mobile/15E148 Safari/605.1.15" version="27.0.6">
   <diagram name="Page-1" id="3cpkXLwyK8GX5LqtrEb9">
-    <mxGraphModel dx="2102" dy="2422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="545" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -830,13 +830,13 @@
           <mxGeometry x="760" y="60" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1ICFSM-4hRCIXsCFX1pl-616" value="Partita 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="850" y="65" width="60" height="20" as="geometry" />
+          <mxGeometry x="850" y="60" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1ICFSM-4hRCIXsCFX1pl-617" value="Partita 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="920" y="65" width="60" height="20" as="geometry" />
+          <mxGeometry x="920" y="60" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1ICFSM-4hRCIXsCFX1pl-618" value="Partita 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="990" y="65" width="60" height="20" as="geometry" />
+          <mxGeometry x="990" y="60" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1ICFSM-4hRCIXsCFX1pl-619" value="Accalai F." style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="280" width="60" height="20" as="geometry" />
