@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.6">
   <diagram name="Page-1" id="jNiQFas62cbTJ4QK4i3m">
-    <mxGraphModel dx="946" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1261" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -613,7 +613,7 @@
         <mxCell id="_qEQvHldHVwXzDPiX0PP-177" value="Muroni B." style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="415" y="270" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_qEQvHldHVwXzDPiX0PP-178" value="Pani R." style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="_qEQvHldHVwXzDPiX0PP-178" value="Pani R." style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="505" y="230" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_qEQvHldHVwXzDPiX0PP-179" value="Pani R." style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=0" parent="1" vertex="1">
@@ -2614,7 +2614,7 @@
         <mxCell id="_qEQvHldHVwXzDPiX0PP-807" value="&lt;font size=&quot;1&quot;&gt;Spanu - Pani&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="130" y="900" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_qEQvHldHVwXzDPiX0PP-808" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;lun 19 - 17:00&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_qEQvHldHVwXzDPiX0PP-808" value="6-0 6-0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="502.5" y="280" width="65" as="geometry" />
         </mxCell>
         <mxCell id="_qEQvHldHVwXzDPiX0PP-809" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;merc 21 - 18:00&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -2641,8 +2641,8 @@
         <mxCell id="_qEQvHldHVwXzDPiX0PP-816" value="&lt;font size=&quot;1&quot;&gt;Seno - Mocci&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="387.5" y="940" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_qEQvHldHVwXzDPiX0PP-817" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;merc 21 - 19:00&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="266.25" y="580" width="87.5" as="geometry" />
+        <mxCell id="_qEQvHldHVwXzDPiX0PP-817" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;merc 28 - 19:00&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="126.25" y="580" width="87.5" as="geometry" />
         </mxCell>
         <mxCell id="XpnNAtz7DpPDVeztIF6P-1" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;sab 24 - 16:00&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="196.25" y="580" width="87.5" as="geometry" />
@@ -2748,6 +2748,9 @@
         </mxCell>
         <mxCell id="6OFiopqJ_ME2qBHiFJfF-2" value="&lt;font size=&quot;1&quot;&gt;Puggioni - Cherchi&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="387.5" y="1200" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6OFiopqJ_ME2qBHiFJfF-4" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;merc 21 - 19:00&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="266.25" y="580" width="87.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
