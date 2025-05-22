@@ -1552,9 +1552,6 @@
         <mxCell id="vP1ZsR35xTyLsMszjJUi-493" value="Libero" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="650" y="1220" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vP1ZsR35xTyLsMszjJUi-494" value="Libero" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
-          <mxGeometry x="650" y="1240" width="110" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="vP1ZsR35xTyLsMszjJUi-495" value="Libero" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="782.5" y="1030" width="110" height="20" as="geometry" />
         </mxCell>
@@ -2656,9 +2653,6 @@
         <mxCell id="vP1ZsR35xTyLsMszjJUi-809" value="Libero" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="782.5" y="770" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vP1ZsR35xTyLsMszjJUi-810" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Pala - Deligia&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="520" y="920" width="110" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="vP1ZsR35xTyLsMszjJUi-811" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;giov 22 - 18:00&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="137.5" y="180" width="65" as="geometry" />
         </mxCell>
@@ -2781,6 +2775,12 @@
         </mxCell>
         <mxCell id="VHfzXT7TALURcJv5wNt4-8" value="6-4 6-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="180" width="65" as="geometry" />
+        </mxCell>
+        <mxCell id="VHfzXT7TALURcJv5wNt4-9" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Pala - Deligia&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1240" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VHfzXT7TALURcJv5wNt4-10" value="Libero" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="520" y="920" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
