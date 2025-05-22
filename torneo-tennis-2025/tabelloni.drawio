@@ -1522,9 +1522,6 @@
         <mxCell id="vP1ZsR35xTyLsMszjJUi-482" value="Libero" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="520" y="1200" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vP1ZsR35xTyLsMszjJUi-483" value="Libero" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1240" width="110" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="vP1ZsR35xTyLsMszjJUi-484" value="Libero" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="650" y="1030" width="110" height="20" as="geometry" />
         </mxCell>
@@ -2775,6 +2772,12 @@
         </mxCell>
         <mxCell id="VHfzXT7TALURcJv5wNt4-5" value="Libero" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#E6FFCC;" vertex="1" parent="1">
           <mxGeometry x="387.5" y="900" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VHfzXT7TALURcJv5wNt4-6" value="&lt;font size=&quot;1&quot;&gt;Di Pietro - Temussi&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1240" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VHfzXT7TALURcJv5wNt4-7" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;gio 29 - 18:00&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="266.25" y="380" width="87.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
