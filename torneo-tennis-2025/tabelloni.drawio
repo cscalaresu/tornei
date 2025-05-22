@@ -1309,9 +1309,6 @@
         <mxCell id="vP1ZsR35xTyLsMszjJUi-410" value="Libero" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="650" y="900" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vP1ZsR35xTyLsMszjJUi-411" value="Libero" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
-          <mxGeometry x="650" y="920" width="110" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="vP1ZsR35xTyLsMszjJUi-412" value="Libero" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="782.5" y="730" width="110" height="20" as="geometry" />
         </mxCell>
@@ -2772,6 +2769,12 @@
         </mxCell>
         <mxCell id="VHfzXT7TALURcJv5wNt4-2" value="6-0 6-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="266.25" y="480" width="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VHfzXT7TALURcJv5wNt4-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Altea - Tangianu&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="650" y="920" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VHfzXT7TALURcJv5wNt4-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ven 23 - 18:00&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="843.75" y="380" width="87.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
