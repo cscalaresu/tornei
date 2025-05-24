@@ -760,7 +760,7 @@
         <mxCell id="vP1ZsR35xTyLsMszjJUi-226" value="Marongiu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="140" y="430" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vP1ZsR35xTyLsMszjJUi-227" value="Marongiu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="vP1ZsR35xTyLsMszjJUi-227" value="Marongiu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="210" y="430" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vP1ZsR35xTyLsMszjJUi-228" value="&lt;b&gt;Girone J&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -901,7 +901,7 @@
         <mxCell id="vP1ZsR35xTyLsMszjJUi-273" value="Firinu D." style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="270" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vP1ZsR35xTyLsMszjJUi-274" value="Dettori P." style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="vP1ZsR35xTyLsMszjJUi-274" value="Dettori P." style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="140" y="230" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vP1ZsR35xTyLsMszjJUi-275" value="Dettori P." style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=0" parent="1" vertex="1">
@@ -2596,7 +2596,7 @@
         <mxCell id="vP1ZsR35xTyLsMszjJUi-792" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Marongiu - Soro&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="782.5" y="710" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vP1ZsR35xTyLsMszjJUi-793" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;sab 24 - 08:00&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="vP1ZsR35xTyLsMszjJUi-793" value="6-3 6-4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="196.25" y="480" width="87.5" as="geometry" />
         </mxCell>
         <mxCell id="vP1ZsR35xTyLsMszjJUi-794" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Di Pietro - Accalai&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -2779,7 +2779,7 @@
         <mxCell id="VHfzXT7TALURcJv5wNt4-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Manunta - Dettori&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="782.5" y="770" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VHfzXT7TALURcJv5wNt4-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;sab 24 - 11:30&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VHfzXT7TALURcJv5wNt4-14" value="6-2 6-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="280" width="72.5" as="geometry" />
         </mxCell>
         <mxCell id="VHfzXT7TALURcJv5wNt4-18" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;dom 25 - 11:00&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
