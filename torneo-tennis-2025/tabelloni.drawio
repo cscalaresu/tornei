@@ -2689,9 +2689,6 @@
         <mxCell id="vP1ZsR35xTyLsMszjJUi-841" value="&lt;font size=&quot;1&quot;&gt;Seno - Mocci&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="520" y="1260" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vP1ZsR35xTyLsMszjJUi-842" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Di Pietro M - Lento&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="782.5" y="1220" width="110" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="vP1ZsR35xTyLsMszjJUi-843" value="R" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="630" y="480" width="87.5" as="geometry" />
         </mxCell>
@@ -2811,6 +2808,9 @@
         </mxCell>
         <mxCell id="OiifjqpamoWiHt43bZmh-34" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Cardin - Pilo&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="650" y="1220" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OiifjqpamoWiHt43bZmh-35" value="Libero" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="782.5" y="1220" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
