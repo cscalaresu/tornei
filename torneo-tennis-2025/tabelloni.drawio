@@ -2605,9 +2605,6 @@
         <mxCell id="OiifjqpamoWiHt43bZmh-167" value="Libero" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#E6FFCC;" vertex="1" parent="1">
           <mxGeometry x="510" y="1179" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OiifjqpamoWiHt43bZmh-168" value="Libero" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1199" width="110" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="OiifjqpamoWiHt43bZmh-169" value="Libero" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="1">
           <mxGeometry x="772.5" y="1139" width="110" height="20" as="geometry" />
         </mxCell>
@@ -2766,6 +2763,12 @@
         </mxCell>
         <mxCell id="OiifjqpamoWiHt43bZmh-232" value="mer 4 -19:00" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="696.25" y="1520" width="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OiifjqpamoWiHt43bZmh-233" value="&lt;font size=&quot;1&quot;&gt;Cardin - Soro&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1199" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OiifjqpamoWiHt43bZmh-235" value="gio 5 - 19:00" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="696.25" y="1775" width="87.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
