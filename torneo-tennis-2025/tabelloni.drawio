@@ -2707,8 +2707,8 @@
         <mxCell id="kn8xOmJBhX_FxLLKBcov-22" value="Libero" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="1050" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kn8xOmJBhX_FxLLKBcov-23" value="Pani - Cherchi (giocano alle 18:00)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1129" width="110" height="41" as="geometry" />
+        <mxCell id="kn8xOmJBhX_FxLLKBcov-23" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Pani - Cherchi (giocano alle 18:00)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1129" width="110" height="21" as="geometry" />
         </mxCell>
         <mxCell id="kn8xOmJBhX_FxLLKBcov-24" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Mocci - Soro&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="511.25" y="879" width="110" height="20" as="geometry" />
@@ -2727,6 +2727,12 @@
         </mxCell>
         <mxCell id="kn8xOmJBhX_FxLLKBcov-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Di Pietro - Rotelli&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="250" y="1149" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kn8xOmJBhX_FxLLKBcov-30" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Pistis - Dettori&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1150" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kn8xOmJBhX_FxLLKBcov-31" value="lun 23 - 19:30" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="492.5" y="1410" width="87.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
