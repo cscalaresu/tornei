@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0">
   <diagram name="Page-1" id="3cpkXLwyK8GX5LqtrEb9">
-    <mxGraphModel dx="966" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1168" dy="1844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1558,7 +1558,7 @@
         <mxCell id="x5RzEElWsEkT-Zed74Fy-270" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Girone O" vertex="1">
           <mxGeometry height="30" width="60" x="50" y="1150" as="geometry" />
         </mxCell>
-        <mxCell id="x5RzEElWsEkT-Zed74Fy-271" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" value="" vertex="1">
+        <mxCell id="x5RzEElWsEkT-Zed74Fy-271" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Pala&lt;/span&gt;" vertex="1">
           <mxGeometry height="20" width="60" x="110" y="1200" as="geometry" />
         </mxCell>
         <mxCell id="x5RzEElWsEkT-Zed74Fy-272" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" value="" vertex="1">
@@ -2326,7 +2326,7 @@
         <mxCell id="x5RzEElWsEkT-Zed74Fy-500" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" value="Pala" vertex="1">
           <mxGeometry height="20" width="60" x="130" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="x5RzEElWsEkT-Zed74Fy-501" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="Pala" vertex="1">
+        <mxCell id="x5RzEElWsEkT-Zed74Fy-501" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" value="Pala" vertex="1">
           <mxGeometry height="20" width="60" x="200" y="80" as="geometry" />
         </mxCell>
         <mxCell id="x5RzEElWsEkT-Zed74Fy-502" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="Spanu" vertex="1">
@@ -2761,7 +2761,7 @@
         <mxCell id="x5RzEElWsEkT-Zed74Fy-709" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3" vertex="1">
           <mxGeometry height="25" width="15" x="820" y="277.5" as="geometry" />
         </mxCell>
-        <mxCell id="x5RzEElWsEkT-Zed74Fy-710" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3" vertex="1">
+        <mxCell id="x5RzEElWsEkT-Zed74Fy-710" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6" vertex="1">
           <mxGeometry height="25" width="15" x="100" y="76.25" as="geometry" />
         </mxCell>
         <mxCell id="x5RzEElWsEkT-Zed74Fy-711" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="0" vertex="1">
@@ -2785,7 +2785,7 @@
         <mxCell id="x5RzEElWsEkT-Zed74Fy-718" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Pala - Pilo&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="110" x="131.25" y="710" as="geometry" />
         </mxCell>
-        <mxCell id="x5RzEElWsEkT-Zed74Fy-719" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;lun 11 - 17:15&lt;/font&gt;" vertex="1">
+        <mxCell id="x5RzEElWsEkT-Zed74Fy-719" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;6-3 6-1&lt;/font&gt;" vertex="1">
           <mxGeometry height="25" width="60" x="200" y="120" as="geometry" />
         </mxCell>
         <mxCell id="x5RzEElWsEkT-Zed74Fy-720" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#E6FFCC;" value="Libero" vertex="1">
@@ -2937,6 +2937,9 @@
         </mxCell>
         <mxCell id="x5RzEElWsEkT-Zed74Fy-773" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Dettori - Mocci&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="110" x="387.5" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="x5RzEElWsEkT-Zed74Fy-774" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="0" vertex="1">
+          <mxGeometry height="25" width="15" x="100" y="117.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
