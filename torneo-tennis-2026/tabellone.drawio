@@ -547,7 +547,7 @@
         <mxCell id="iRV3cXhKf0Lmo0QRU872-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="Lupinu" vertex="1">
           <mxGeometry height="20" width="60" x="130" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="iRV3cXhKf0Lmo0QRU872-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="Lupinu" vertex="1">
+        <mxCell id="iRV3cXhKf0Lmo0QRU872-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" value="Lupinu" vertex="1">
           <mxGeometry height="20" width="60" x="270" y="380" as="geometry" />
         </mxCell>
         <mxCell id="iRV3cXhKf0Lmo0QRU872-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=0" value="Chessa" vertex="1">
@@ -1549,7 +1549,7 @@
         <mxCell id="x5RzEElWsEkT-Zed74Fy-274" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Girone E" vertex="1">
           <mxGeometry height="30" width="60" x="50" y="1155" as="geometry" />
         </mxCell>
-        <mxCell id="x5RzEElWsEkT-Zed74Fy-275" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+        <mxCell id="x5RzEElWsEkT-Zed74Fy-275" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="Soro" vertex="1">
           <mxGeometry height="20" width="60" x="110" y="1210" as="geometry" />
         </mxCell>
         <mxCell id="x5RzEElWsEkT-Zed74Fy-276" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="Fiori" vertex="1">
@@ -1789,7 +1789,7 @@
         <mxCell id="x5RzEElWsEkT-Zed74Fy-345" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Girone E" vertex="1">
           <mxGeometry height="30" width="60" x="50" y="1475" as="geometry" />
         </mxCell>
-        <mxCell id="x5RzEElWsEkT-Zed74Fy-346" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+        <mxCell id="x5RzEElWsEkT-Zed74Fy-346" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="Pirisi" vertex="1">
           <mxGeometry height="20" width="60" x="110" y="1530" as="geometry" />
         </mxCell>
         <mxCell id="x5RzEElWsEkT-Zed74Fy-347" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="Firinu" vertex="1">
@@ -2029,7 +2029,7 @@
         <mxCell id="x5RzEElWsEkT-Zed74Fy-414" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Girone E" vertex="1">
           <mxGeometry height="30" width="60" x="50" y="1795" as="geometry" />
         </mxCell>
-        <mxCell id="x5RzEElWsEkT-Zed74Fy-415" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+        <mxCell id="x5RzEElWsEkT-Zed74Fy-415" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="Moretti" vertex="1">
           <mxGeometry height="20" width="60" x="110" y="1850" as="geometry" />
         </mxCell>
         <mxCell id="x5RzEElWsEkT-Zed74Fy-416" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="Cossu" vertex="1">
@@ -2686,9 +2686,6 @@
         <mxCell id="x5RzEElWsEkT-Zed74Fy-790" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6" vertex="1">
           <mxGeometry height="25" width="15" x="1180" y="97.5" as="geometry" />
         </mxCell>
-        <mxCell id="x5RzEElWsEkT-Zed74Fy-792" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;mer 20 - 17:00&lt;/font&gt;" vertex="1">
-          <mxGeometry height="25" width="60" x="270" y="420" as="geometry" />
-        </mxCell>
         <mxCell id="x5RzEElWsEkT-Zed74Fy-793" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Pola - Lupinu&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="110" x="377.5" y="690" as="geometry" />
         </mxCell>
@@ -2940,6 +2937,9 @@
         </mxCell>
         <mxCell id="IX7LCx30G4EWQaQAMztd-91" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#E6FFCC;" value="Libero" vertex="1">
           <mxGeometry height="20" width="110" x="122.5" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="wVI-uZM7Ue2Q3hB0254r-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3" vertex="1">
+          <mxGeometry height="25" width="15" x="100" y="397.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
